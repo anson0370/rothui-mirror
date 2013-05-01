@@ -1,0 +1,7 @@
+## Interface: 50200
+## Title: bTooltip
+## Notes: custom tooltips
+## Author: Fernir
+## Version: 1
+
+bTooltip.lua

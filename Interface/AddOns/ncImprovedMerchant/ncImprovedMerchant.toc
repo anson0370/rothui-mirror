@@ -1,0 +1,7 @@
+## Interface: 50200
+## Title: ncImprovedMerchant
+## Version: 1.1
+## Author: Nightcracker
+## Notes: Some small improvements for the merchant frame.
+
+ncImprovedMerchant.lua
